@@ -1,5 +1,5 @@
 
-# Habib University, Fall Semester 2018
+# Habib University, Spring Semester 2018
 ## Engineering, Design And Innovation - EE 391
 
 Instructor: Dr. Basit Memon
